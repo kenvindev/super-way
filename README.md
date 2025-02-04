@@ -1,2 +1,3 @@
 # super-way
+Javascript game for web browers and mobile devices in futures...
 For playing.
